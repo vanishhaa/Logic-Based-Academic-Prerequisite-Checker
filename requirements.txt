@@ -1,0 +1,3 @@
+# Python version: 3.8+
+# No external libraries required for this core logic engine.
+# If you add a GUI later, you would list 'tkinter' or 'flask' here.
